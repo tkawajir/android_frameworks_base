@@ -15,6 +15,5 @@
      limitations under the License.
 -->
 <resources>
-  <string name="notification_bug_report_active_title">Errore-txostena biltzen\u2026</string>
-  <string name="notification_bug_report_active_text">Minutu batzuk itxaron, mesedez</string>
+  <string name="notification_bug_report_active_title">جمع‌آوری گزارش اشکال\u2026</string>
 </resources>
